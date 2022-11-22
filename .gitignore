@@ -1,0 +1,18 @@
+node_modules
+.prettierrc
+.env
+.DS_Store
+coverage
+
+
+cache
+artifacts
+.encryptedKey.json
+# vscode
+.vscode
+coverage.json
+typechain
+gasreport.txt
+deployments
+coverage
+package-lock.json
