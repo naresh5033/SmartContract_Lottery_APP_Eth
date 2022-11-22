@@ -36,3 +36,5 @@ we will create a full stack next.js app (front end to enter our lottery app, we 
 we will also host this app in a Decentralized context.\
 we use react-moralis pckg --> the hook to connect our frontend to the BC\
 We also use web3UIKIT for our dApp
+
+The deployed app at "https://singular-frangollo-68defd.netlify.app/"
