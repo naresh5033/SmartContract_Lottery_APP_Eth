@@ -46,5 +46,5 @@ Once we deployed in fleek it will give a regular URL and also deploy our site on
 
 ## File Coin
 
-File coin is a BC that actually helps us to pin our data and uses decentralized storage.\ 
+File coin is a BC that actually helps us to pin our data and uses decentralized storage.\
 The file coin is a storage designed for web3
