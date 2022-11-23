@@ -37,4 +37,4 @@ we will also host this app in a Decentralized context.\
 we use react-moralis pckg --> the hook to connect our frontend to the BC\
 We also use web3UIKIT for our dApp
 
-The deployed app at "https://singular-frangollo-68defd.netlify.app/"
+The deployed app at "https://frabjous-baklava-27a19b.netlify.app/"
